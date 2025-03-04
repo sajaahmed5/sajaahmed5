@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there! I'm Saja the data analyst
 
+I recently finished my internship at [SIRGAD](https://www.sirgad.com/) company, developing PowerBI dashboards and deep analysis for the company's data.
+I'm also a Google-certified data analyst (Finished both the intermediate and advanced Google Data Analytics learning paths) and earned the [Data Analyst Badge](https://www.credly.com/badges/4c5a21f0-fea9-4f28-8fa7-a7bee804eb29/public_url) from UNDP & MBRF.
+Enough talking about me, you can know all about me from my [C.V. here](https://drive.google.com/file/d/1ZARHhMwCUyCuEEseyZEneuxw05j2lWNg/view?usp=sharing)
+
+I'm currently looking for a data analyst position, you can contact me through my email: sajaahmed617@gmail.com
 <!--
 **sajaahmed5/sajaahmed5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
